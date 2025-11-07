@@ -2,6 +2,14 @@
   "name": "contacts-manager",
   "version": "1.0.0",
   "description": "simple contacts manager",
+  "homepage": "https://github.com/rami-yu00/my_contacts#readme",
+  "bugs": {
+    "url": "https://github.com/rami-yu00/my_contacts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rami-yu00/my_contacts.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
